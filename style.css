@@ -63,10 +63,10 @@ h2{
 .links:hover{
     background-color:forestgreen; 
 }
-p{
+#p{
     font-size: 50px;
     color: green;
-    font-family: cursive;
+    font-family:'Lobster', cursive;
     
     
 }
